@@ -5,23 +5,10 @@
 ---
 # 👥 Actores del Sistema
 
-|---|---|
 1. Aspirante 
 2. Estudiante 
 3. Docente 
 4. Conducción / CPR 
-
----
-
-# 🧩 Épicas del Sistema
-
-| ID | Épica |
-|---|---|
-| EP-01 | Gestión de Inscripciones |
-| EP-02 | Legajo y Perfil Académico |
-| EP-03 | Gestión Docente |
-| EP-04 | Estadísticas y Reportes |
-| EP-05 | Administración del Sistema |
 
 ---
 
