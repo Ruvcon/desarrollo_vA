@@ -1,19 +1,16 @@
-# 🎓 Sistema de Gestión Académica para Posgrado · UTN FRLP
+# Sistema de Gestión Académica para Posgrado · UTN FRLP
 
 > Actividad Práctica · Desarrollo de Software · Metodología Ágil
 
 ---
-
-# 📌 Product Backlog
-
 # 👥 Actores del Sistema
 
 | Actor | Descripción |
 |---|---|
-| Aspirante | Solicita inscripción y carga documentación |
-| Estudiante | Realiza cursadas y seguimiento académico |
-| Docente | Registra asistencia y calificaciones |
-| Conducción / CPR | Supervisa, administra y genera reportes |
+1. Aspirante 
+2. Estudiante 
+3. Docente 
+4. Conducción / CPR 
 
 ---
 
@@ -50,56 +47,3 @@
 | US-15 | EP-04 | Como conducción, quiero descargar reportes académicos, para compartir información institucional. | **Dado** que se genera un reporte, **cuando** selecciona exportar, **entonces** el sistema descarga el archivo.<br><br>**Dado** que el archivo es descargado, **cuando** se abre, **entonces** contiene la información solicitada. | 3 | C | 5 |
 
 ---
-
-# 📊 Escala de Estimación
-
-| Story Points | Complejidad |
-|---|---|
-| 1 | Muy simple |
-| 2 | Simple |
-| 3 | Moderada |
-| 5 | Compleja |
-| 8 | Muy compleja |
-| 13 | Épica / subdividir |
-
----
-
-# 🏷️ Prioridad MoSCoW
-
-| Código | Significado |
-|---|---|
-| M | MUST — Imprescindible |
-| S | SHOULD — Importante |
-| C | COULD — Deseable |
-| W | WON'T — No incluido |
-
----
-
-# 🚀 Organización de Sprints
-
-| Sprint | Objetivo |
-|---|---|
-| Sprint 1 | Inscripción y carga de documentación |
-| Sprint 2 | Gestión académica y administración |
-| Sprint 3 | Gestión docente y búsquedas |
-| Sprint 4 | Seguimiento académico y tesis |
-| Sprint 5 | Estadísticas, reportes y automatizaciones |
-
----
-
-# 📚 Tecnologías Sugeridas
-
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js / Java / PHP
-- Base de Datos: MySQL / PostgreSQL
-- Control de versiones: Git + GitHub
-
----
-
-# 🏫 Universidad Tecnológica Nacional
-## Facultad Regional La Plata
-
-**Materia:** Desarrollo de Software  
-**Trabajo Práctico:** Product Backlog  
-**Metodología:** Scrum / Agile
-****
