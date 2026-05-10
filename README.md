@@ -5,7 +5,6 @@
 ---
 # 👥 Actores del Sistema
 
-| Actor | Descripción |
 |---|---|
 1. Aspirante 
 2. Estudiante 
